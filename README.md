@@ -14,3 +14,15 @@ This repository contains data about GitHub users in Austin with over 100 followe
 - Date of collection: 2024-10-31
 - Only included users with 100+ followers
 - Up to 500 most recently pushed repositories per user
+
+## 1.An explanation of how you scraped the data
+
+- I have used code present in TDS_Project_1.ipynb where it ask for GitHub Personal Access Token, then generate users.csv, repositories.csv
+
+## 2.The most interesting and surprising fact you found after analyzing the the data
+
+- Data is amazingly corelated and trends of user of GitHub & popularity
+
+## 3.An actionable recommendation for developers based on your analysis
+
+- Follow all Coding standards, & Unit testing is must.

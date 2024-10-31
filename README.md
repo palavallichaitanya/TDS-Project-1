@@ -6,7 +6,7 @@ This repository contains data about GitHub users in Austin with over 100 followe
 
 1. `users.csv`: Contains information about 476 GitHub users in Austin with over 100 followers
 2. `repositories.csv`: Contains information about 41311 public repositories from these users
-3. `gitscrap.py`: Python script used to collect this data
+3. `TDS_Project_1.ipynb`: Python script used to collect this data
 
 ## Data Collection
 
